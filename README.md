@@ -95,7 +95,7 @@
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gagradebnath&theme=radical&hide_border=true&layout=compact&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gagradebnath&theme=radical&hide_border=true&layout=compact&include_all_commits=true&count_private=true" />
 </div>
 
 <div align="center">
