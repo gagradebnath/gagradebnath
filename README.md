@@ -11,7 +11,7 @@
 
 ## 💫 About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 🎓 **Computer Science Engineering Student** at BUET  
 💻 **Full-Stack Developer** passionate about creating impactful solutions  
